@@ -1,2 +1,2 @@
 # PHP-To-Python
-We don't know how it works but it's working
+This little thing allow you to execute a specific python script with php 
